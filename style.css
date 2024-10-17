@@ -1,0 +1,27 @@
+table {
+    text-align: center;
+    width: 1200px;
+    height: 800px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 30px;
+    border: 1px solid black;
+}
+.full-row {
+    height: 100px;
+    background-color: blue;
+    text-align: left;
+    color: white;
+    border: 1px solid black;
+}
+
+.oneAndThree{
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    border: 1px solid black;
+}
